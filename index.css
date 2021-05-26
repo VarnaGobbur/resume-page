@@ -1,0 +1,46 @@
+#header{
+	height: 130px;
+}
+body{
+	background-image: url(image5.jpg);
+	background-size: cover;
+	height: 400px;
+	background-repeat: no-repeat;
+	color: #000000;
+	font-size: 18px;
+}
+#sidebar{
+	float: left; width: 40%;
+	height: 300px;
+
+}
+#main{
+	float: right; width:60%;
+	height: 300px;
+
+}
+
+#footer{
+	
+	display: block;
+}
+table, th, td{
+border:1px solid darksalmon;
+}
+h1{
+	text-align: center;
+	color: #000099;
+}
+h2{
+	color:#00aaff;
+}
+h3{
+	text-align: center;
+	color: #0000ff;
+}
+h4{
+	color: #00aaff;
+}
+a{
+	color: darksalmon;
+}
